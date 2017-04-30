@@ -13,3 +13,5 @@ A detect right hand & detect left hand, and just detect right hand in this step.
 ![readmeimg1](https://github.com/PohanYang/Sign-Language-Estimation-by-Tensorflow/blob/master/readme_img/cut2.png)  
 Training data is 4013 RGB pictures in RGB color.  
 Use tensorflow CNN model to build it.  
+
+More code in <https://github.com/PohanYang/thesis_signLanguage>
